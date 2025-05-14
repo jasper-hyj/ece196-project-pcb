@@ -9340,6 +9340,102 @@
 			(justify left bottom mirror)
 		)
 	)
+	(gr_text "Power Supply Port"
+		(at 115.12 101.245 90)
+		(layer "Cmts.User")
+		(uuid "26dc458d-d777-4af8-bace-9b9a8316b9d4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Pins for Devboard"
+		(at 127.62 119.495 0)
+		(layer "Cmts.User")
+		(uuid "4b7b04f2-8844-49db-8179-acc178709c7e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Motors Pins"
+		(at 181.62 87.245 270)
+		(layer "Cmts.User")
+		(uuid "7e2e6f6b-c5df-4a0e-a543-9491aa019ed6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Pins for Devboard"
+		(at 127.37 81.495 0)
+		(layer "Cmts.User")
+		(uuid "858a6eea-fc5d-44bb-ac08-a76af276b8f0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Motors Pins"
+		(at 181.37 98.995 270)
+		(layer "Cmts.User")
+		(uuid "9eda3eeb-1416-493e-806a-e63ecad53261")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Voltage Regulator"
+		(at 131.87 101.995 90)
+		(layer "Cmts.User")
+		(uuid "b320e9a4-0cd1-4a09-8ade-e7f70464f0dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "L298N Motor Driver x2"
+		(at 137.87 99.995 0)
+		(layer "Cmts.User")
+		(uuid "c5f861ae-800b-4f21-88bc-49d3e6640923")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Ultra Sonic Sensor Pins"
+		(at 111.87 104.495 0)
+		(layer "Cmts.User")
+		(uuid "f6e49139-378e-43ad-9708-8bd3e5315b7b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 134.87 104.97)
 		(end 134.87 102.995)
